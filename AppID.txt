@@ -1,3 +1,0 @@
-name: zorn
-api id: 2e4a4e15-570e-43bf-a5bc-a5e7d77442e2
-pass: C1Vt2EKCoxUDFsMxx0jODBi
