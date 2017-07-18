@@ -16,7 +16,7 @@ var connector = new builder.ChatConnector({
 
 var bot = new builder.UniversalBot(connector);
 
-server.post('/api/messages', connector.listen());
+server.post('https://zorn.herokuapp.com/api/messages', connector.listen());
 
 //incoming msg route
 bot.dialog('/', function (session, args) {
